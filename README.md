@@ -1,5 +1,5 @@
 # Angular-ile-Web-Gelistirme
-Visual Studio Code platformunda html,css,javascript,typescript programlama dilleri ve Angular.js framework ile yaptığım basit seviyede aşağıda ki konuları içeren projem.
+Visual Studio Code platformunda html,css,javascript,typescript programlama dilleri , Bootstrap kütüphanesi ve Angular.js framework ile yaptığım basit seviyede aşağıda ki konuları içeren projem.
 
 -Component Selectors
 
